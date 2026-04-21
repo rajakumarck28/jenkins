@@ -1,0 +1,1 @@
+echo "akshay">akshay.txt 
